@@ -136,6 +136,10 @@ body {
         padding: 10%;
     }
 
+        .header__menu{
+        padding: 10%;
+    }
+
     .header__menu{
         justify-content: center;
     }
