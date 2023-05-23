@@ -136,12 +136,9 @@ body {
         padding: 10%;
     }
 
-        .header__menu{
-        padding: 10%;
-    }
-
     .header__menu{
-        justify-content: center;
+        gap: 15px;
+        justify-conte1nt: center;
     }
 
     .container{
